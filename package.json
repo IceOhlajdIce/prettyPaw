@@ -43,6 +43,7 @@
   "dependencies": {
     "imagemin": "^8.0.1",
     "imagemin-webp": "^8.0.0",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "swiper": "^9.2.4"
   }
 }
