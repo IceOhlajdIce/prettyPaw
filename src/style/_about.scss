@@ -125,10 +125,7 @@
             font-size: 52px;
         }
     }
-
-    &__count-desc {
-    }
-
+    
     &__picture {
         @include lg {
             grid-area: slider;
