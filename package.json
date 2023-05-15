@@ -41,6 +41,7 @@
     "webpack-dev-server": "^4.13.3"
   },
   "dependencies": {
+    "gsap": "^3.11.5",
     "imagemin": "^8.0.1",
     "imagemin-webp": "^8.0.0",
     "normalize.css": "^8.0.1",

@@ -74,6 +74,11 @@
         @include xl {
             gap: 60px;
         }
+
+        @include xxl {
+            max-height: 600px;
+            height: min-content;
+        }
     }
 
     &__description {
